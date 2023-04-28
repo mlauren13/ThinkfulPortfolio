@@ -8,6 +8,7 @@ body {
   padding: 40px;
 
 }
+nav {text-align: center;}
 
 /* Set the font family for any h1, h2, or h3 heading */
 h1 {font-family: "Playfair Display", Times, serif;
